@@ -38,6 +38,7 @@ Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sap
 ```
 
 #### Output
+<img width="1000" alt="cuteface-cover" src="https://github.com/withastro/astro/assets/77322446/114c5084-ba7d-4fe4-8a23-f1e401386a37">
 
 ![blog placeholder](/blog-placeholder-about.jpg)
 
